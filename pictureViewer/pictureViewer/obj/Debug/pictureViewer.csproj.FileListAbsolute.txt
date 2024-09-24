@@ -1,0 +1,20 @@
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.AssemblyReference.cache
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.Form1.resources
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.Properties.Resources.resources
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.GenerateResource.cache
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.CoreCompileInputs.cache
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\bin\Debug\pictureViewer.exe.config
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\bin\Debug\pictureViewer.exe
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\bin\Debug\pictureViewer.pdb
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.exe
+D:\Học tập\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.pdb
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\bin\Debug\pictureViewer.exe.config
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\bin\Debug\pictureViewer.exe
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\bin\Debug\pictureViewer.pdb
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.AssemblyReference.cache
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.Form1.resources
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.Properties.Resources.resources
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.GenerateResource.cache
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.exe
+D:\Study\LapTrinhMangCB\pictureViewer\pictureViewer\obj\Debug\pictureViewer.pdb
