@@ -1,0 +1,10 @@
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\bin\Debug\TCP-chat.exe.config
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\bin\Debug\TCP-chat.exe
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\bin\Debug\TCP-chat.pdb
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\obj\Debug\server-tcpchat.csproj.AssemblyReference.cache
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\obj\Debug\TCP_chat.Form1.resources
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\obj\Debug\TCP_chat.Properties.Resources.resources
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\obj\Debug\server-tcpchat.csproj.GenerateResource.cache
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\obj\Debug\server-tcpchat.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\obj\Debug\TCP-chat.exe
+D:\Study\LapTrinhMangCB\TcpChatWithFileSharing\TCP-chat\obj\Debug\TCP-chat.pdb

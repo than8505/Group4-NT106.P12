@@ -1,0 +1,10 @@
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\bin\Debug\sever-tcpchat.exe.config
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\bin\Debug\sever-tcpchat.exe
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\bin\Debug\sever-tcpchat.pdb
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\obj\Debug\sever-tcpchat.csproj.AssemblyReference.cache
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\obj\Debug\sever_tcpchat.Form1.resources
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\obj\Debug\sever_tcpchat.Properties.Resources.resources
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\obj\Debug\sever-tcpchat.csproj.GenerateResource.cache
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\obj\Debug\sever-tcpchat.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\obj\Debug\sever-tcpchat.exe
+D:\Study\LapTrinhMangCB\TCP-chat\sever-tcpchat\obj\Debug\sever-tcpchat.pdb
