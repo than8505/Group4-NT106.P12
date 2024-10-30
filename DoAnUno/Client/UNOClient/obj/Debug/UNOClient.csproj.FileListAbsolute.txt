@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\bin\Debug\UNOClient.exe.config
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\bin\Debug\UNOClient.exe
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\bin\Debug\UNOClient.pdb
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.ConnectMenu.resources
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.Lobby.resources
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.Properties.Resources.resources
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.exe
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.pdb
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.GameTable.resources
+C:\Users\ASUS\Desktop\WORK\Lập trình mạng\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.EndForm.resources
+D:\Program\C#\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.csproj.AssemblyReference.cache
+D:\Program\C#\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.exe
+D:\Program\C#\Project UNO\UNOClient\UNOClient\obj\Debug\UNOClient.pdb
+D:\Study\DoAn\UNOClient (1)\UNOClient\bin\Debug\UNOClient.exe.config
+D:\Study\DoAn\UNOClient (1)\UNOClient\bin\Debug\UNOClient.exe
+D:\Study\DoAn\UNOClient (1)\UNOClient\bin\Debug\UNOClient.pdb
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.csproj.AssemblyReference.cache
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.ConnectMenu.resources
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.EndForm.resources
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.GameTable.resources
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.Lobby.resources
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.Properties.Resources.resources
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.csproj.GenerateResource.cache
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.csproj.CoreCompileInputs.cache
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.exe
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.pdb
+D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.Form2.resources

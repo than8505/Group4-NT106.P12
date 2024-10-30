@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78B2A6-3C22-45CD-85BC-25DF10C23241}|Server\\Server.csproj|d:\\nt106\\group4-nt106.p12\\doanuno\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78B2A6-3C22-45CD-85BC-25DF10C23241}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78B2A6-3C22-45CD-85BC-25DF10C23241}|Server\\Server.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\server\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78B2A6-3C22-45CD-85BC-25DF10C23241}|Server\\Server.csproj|solutionrelative:server\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78B2A6-3C22-45CD-85BC-25DF10C23241}|Server\\Server.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\server\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78B2A6-3C22-45CD-85BC-25DF10C23241}|Server\\Server.csproj|solutionrelative:server\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\Server\\Card.cs",
+              "RelativeDocumentMoniker": "Server\\Card.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\Server\\Card.cs",
+              "RelativeToolTip": "Server\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:50:48.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\Server\\Player.cs",
+              "RelativeDocumentMoniker": "Server\\Player.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\Server\\Player.cs",
+              "RelativeToolTip": "Server\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:31:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJsBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:09:13.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
