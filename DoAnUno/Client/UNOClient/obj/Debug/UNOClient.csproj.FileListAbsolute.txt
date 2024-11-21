@@ -28,3 +28,17 @@ D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.csproj.CoreCompileInpu
 D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.exe
 D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.pdb
 D:\Study\DoAn\UNOClient (1)\UNOClient\obj\Debug\UNOClient.Form2.resources
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\bin\Debug\UNOClient.exe.config
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\bin\Debug\UNOClient.exe
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\bin\Debug\UNOClient.pdb
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.csproj.AssemblyReference.cache
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.ConnectMenu.resources
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.EndForm.resources
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.Form2.resources
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.GameTable.resources
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.Lobby.resources
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.Properties.Resources.resources
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.csproj.GenerateResource.cache
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.csproj.CoreCompileInputs.cache
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.exe
+D:\NT106\Group4-NT106.P12\DoAnUno\Client\UNOClient\obj\Debug\UNOClient.pdb

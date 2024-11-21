@@ -7,3 +7,12 @@ D:\Study\DoAn\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 D:\Study\DoAn\Server\Server\obj\Debug\Server.exe
 D:\Study\DoAn\Server\Server\obj\Debug\Server.pdb
 D:\Study\DoAn\Server\Server\bin\Debug\Server.pdb
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\bin\Debug\Server.exe.config
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\bin\Debug\Server.exe
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\bin\Debug\Server.pdb
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\obj\Debug\Server.exe
+D:\NT106\Group4-NT106.P12\DoAnUno\Server\Server\obj\Debug\Server.pdb

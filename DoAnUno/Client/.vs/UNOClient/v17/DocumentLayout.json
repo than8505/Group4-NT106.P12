@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|d:\\nt106\\group4-nt106.p12\\doanuno\\client\\unoclient\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|d:\\nt106\\group4-nt106.p12\\doanuno\\client\\unoclient\\thisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\thisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\unoclient\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\unoclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\unoclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|d:\\nt106\\group4-nt106.p12\\doanuno\\client\\unoclient\\connectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\connectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|d:\\nt106\\group4-nt106.p12\\doanuno\\client\\unoclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|d:\\nt106\\group4-nt106.p12\\doanuno\\client\\unoclient\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\unoclient\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\unoclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\unoclient\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\unoclient\\connectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962CEAEE-B540-4CC2-A1FA-A6585D4192CF}|UNOClient\\UNOClient.csproj|solutionrelative:unoclient\\connectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +42,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThisPlayer.cs",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\ThisPlayer.cs",
+              "RelativeDocumentMoniker": "UNOClient\\ThisPlayer.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\ThisPlayer.cs",
+              "RelativeToolTip": "UNOClient\\ThisPlayer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:05:50.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameTable.cs [Design]",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\GameTable.cs",
+              "RelativeDocumentMoniker": "UNOClient\\GameTable.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\GameTable.cs [Design]",
+              "RelativeToolTip": "UNOClient\\GameTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:10:13.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "UNOClient\\ClientSocket.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\ClientSocket.cs",
+              "RelativeToolTip": "UNOClient\\ClientSocket.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAswAMBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:34:19.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameTable.cs",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\GameTable.cs",
+              "RelativeDocumentMoniker": "UNOClient\\GameTable.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\GameTable.cs",
+              "RelativeToolTip": "UNOClient\\GameTable.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAIBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:55:12.421Z"
             },
             {
               "$type": "Document",
@@ -45,59 +101,41 @@
               "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\Lobby.cs [Design]",
               "RelativeToolTip": "UNOClient\\Lobby.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T09:12:52.504Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-30T09:12:52.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameTable.cs [Design]",
-              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\GameTable.cs",
-              "RelativeDocumentMoniker": "UNOClient\\GameTable.cs",
-              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\GameTable.cs [Design]",
-              "RelativeToolTip": "UNOClient\\GameTable.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\Form1.cs",
+              "RelativeDocumentMoniker": "UNOClient\\Form1.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\Form1.cs [Design]",
+              "RelativeToolTip": "UNOClient\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T09:10:13.03Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-30T11:07:42.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\Form2.cs",
+              "RelativeDocumentMoniker": "UNOClient\\Form2.cs",
+              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\Form2.cs [Design]",
+              "RelativeToolTip": "UNOClient\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:08:51.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ConnectMenu.cs",
               "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\ConnectMenu.cs",
               "RelativeDocumentMoniker": "UNOClient\\ConnectMenu.cs",
               "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\ConnectMenu.cs",
               "RelativeToolTip": "UNOClient\\ConnectMenu.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAswDEAAAAJAAAA",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T09:08:18.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameTable.cs",
-              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\GameTable.cs",
-              "RelativeDocumentMoniker": "UNOClient\\GameTable.cs",
-              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\GameTable.cs",
-              "RelativeToolTip": "UNOClient\\GameTable.cs",
-              "ViewState": "AQIAAHkCAAAAAAAAAAAAAFoCAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T04:55:12.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientSocket.cs",
-              "DocumentMoniker": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\ClientSocket.cs",
-              "RelativeDocumentMoniker": "UNOClient\\ClientSocket.cs",
-              "ToolTip": "D:\\NT106\\Group4-NT106.P12\\DoAnUno\\Client\\UNOClient\\ClientSocket.cs",
-              "RelativeToolTip": "UNOClient\\ClientSocket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOEAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:34:19.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T09:08:18.785Z"
             }
           ]
         }
